@@ -1,0 +1,20 @@
+#Textarea1 {
+    height: 350px !important;
+}
+
+#Textarea1, #Textarea2 {
+    font-size: 25px !important;
+    letter-spacing: 2px !important;
+}
+
+#Textarea1, #Textarea2, #Textarea3 {
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+
+#Textarea2, #Textarea3 {
+    height: 157px !important;
+}
+
+#Textarea3 {
+    font-size: 14px !important;
+}
